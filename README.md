@@ -2,11 +2,11 @@
 
 Desenvolvedor de Software focado em criar soluções que unem Machine Learning e Desenvolvimento Mobile.
 
-Atualmente sou Bolsista PIBITI no laboratório TAPIOCA-UFRN (UFRN), onde meu foco é desenvolver e avaliar modelos de Machine Learning (com Python, OpenCV e MLflow) para reconhecimento de objetos em vídeo no agronegócio. Também transformo esses modelos em aplicações práticas, criando protótipos em Flutter.
+Atualmente sou Bolsista PIBITI no laboratório TAPIOCA@EAJ (UFRN), onde meu foco é desenvolver e avaliar modelos de Machine Learning (com Python, OpenCV e MLflow) para reconhecimento de objetos em vídeo no agronegócio. Também transformo esses modelos em aplicações práticas, criando protótipos em Flutter.
 
 - 🎓 Cursando o 6º (e último) período de **Análise e Desenvolvimento de Sistemas (UFRN)**.
 - 🔭 Meu foco hoje: **Machine Learning**, **Desenvolvimento Mobile (Flutter)** e **Back-end (Java/Spring)**.
-- 📺 Compartilho meus projetos e tutoriais no meu [**Canal do YouTube**](httpsS://www.youtube.com/@arthrlisboa).
+- 📺 Compartilho meus projetos e tutoriais no meu [**Canal do YouTube**](https://www.youtube.com/@arthrlisboa).
 
 ---
 
@@ -23,8 +23,7 @@ Atualmente sou Bolsista PIBITI no laboratório TAPIOCA-UFRN (UFRN), onde meu foc
       <br><strong>OpenCV</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mlflow/mlflow-original.svg" width="48" height="48" alt="MLflow" />
-      <br><strong>MLflow</strong>
+      <img src="https://simpleicons.org/icons/mlflow.svg" width="48" height="48" alt="MLflow" /> <br><strong>MLflow</strong>
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter" />
@@ -71,14 +70,13 @@ Atualmente sou Bolsista PIBITI no laboratório TAPIOCA-UFRN (UFRN), onde meu foc
 
 ### 📊 Minhas Estatísticas
 
-
-![Estatísticas de Arthur no GitHub](httpsS://github-readme-stats.vercel.app/api?username=arthrlisboa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-[![Top Langs](httpsS://github-readme-stats.vercel.app/api/top-langs/?username=arthrlisboa&layout=compact&theme=tokyonight&langs_count=10)](httpsS://github.com/anuraghazra/github-readme-stats)
+![Estatísticas de Arthur no GitHub](https://github-readme-stats.vercel.app/api?username=arthrlisboa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ff0000&text_color=afafaf&bg_color=0d1117)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthrlisboa&layout=compact&theme=tokyonight&langs_count=10&hide_border=true&title_color=ffffff&icon_color=ff0000&text_color=afafaf&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ### 📫 Onde me encontrar
 
-<a href="httpsS://www.linkedin.com/in/arthur-lisboa-a7b44b273/"><img src="httpsS://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="mailto:arthurb1118@gmail.com"><img src="httpsS://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="httpsS://www.youtube.com/@arthrlisboa" target="_blank"><img src="httpsS://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/arthur-lisboa-a7b44b273/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:arthurb1118@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.youtube.com/@arthrlisboa" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
