@@ -1,12 +1,14 @@
 # Olá! Eu sou o Arthur Lisboa 👋
 
-Desenvolvedor de Software focado em criar soluções que unem Machine Learning e Desenvolvimento Mobile.
+**Desenvolvedor de Software** graduado em Análise e Desenvolvimento de Sistemas pela UFRN.
 
-Atualmente sou Bolsista PIBITI no laboratório TAPIOCA@EAJ (UFRN), onde meu foco é desenvolver e avaliar modelos de Machine Learning (com Python, OpenCV e MLflow) para reconhecimento de objetos em vídeo no agronegócio. Também transformo esses modelos em aplicações práticas, criando protótipos em Flutter.
+Atualmente focado em construir soluções escaláveis que unem **Desenvolvimento Web**, **Mobile** e **Machine Learning**. Recentemente concluí minha atuação como Bolsista PIBITI no laboratório TAPIOCA (UFRN), onde desenvolvi modelos de IA para o agronegócio e validei aplicações práticas em dispositivos móveis. 
 
-- 🎓 Cursando o 6º (e último) período de **Análise e Desenvolvimento de Sistemas (UFRN)**.
-- 🔭 Meu foco hoje: **Machine Learning**, **Desenvolvimento Mobile (Flutter)** e **Back-end (Java/Spring)**.
-- 📺 Compartilho meus projetos e tutoriais no meu [**Canal do YouTube**](https://www.youtube.com/@arthrlisboa).
+Hoje busco impactar projetos com foco em performance, experiência do usuário e arquitetura sólida.
+
+- 🎓 Graduado em **Análise e Desenvolvimento de Sistemas (UFRN)**.
+- 🔭 Atuando com: **PHP (Laravel)**, **Java (Spring Boot)**, **Mobile (Flutter)** e **Machine Learning**.
+- 📺 Compartilho projetos e tutoriais no meu [**Canal do YouTube**](https://www.youtube.com/@arthrlisboa).
 
 ---
 
@@ -15,30 +17,13 @@ Atualmente sou Bolsista PIBITI no laboratório TAPIOCA@EAJ (UFRN), onde meu foco
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      <br><strong>Python</strong>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
+      <br><strong>PHP</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="48" height="48" alt="OpenCV" />
-      <br><strong>OpenCV</strong>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="48" height="48" alt="Laravel" />
+      <br><strong>Laravel</strong>
     </td>
-    <td align="center" width="96">
-      <img src="https://simpleicons.org/icons/mlflow.svg" width="48" height="48" alt="MLflow" /> <br><strong>MLflow</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter" />
-      <br><strong>Flutter</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="48" height="48" alt="Dart" />
-      <br><strong>Dart</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="48" height="48" alt="Firebase" />
-      <br><strong>Firebase</strong>
-    </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="48" height="48" alt="Java" />
       <br><strong>Java</strong>
@@ -48,20 +33,37 @@ Atualmente sou Bolsista PIBITI no laboratório TAPIOCA@EAJ (UFRN), onde meu foco
       <br><strong>Spring Boot</strong>
     </td>
     <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter" />
+      <br><strong>Flutter</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      <br><strong>Python</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="48" height="48" alt="OpenCV" />
+      <br><strong>OpenCV</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://simpleicons.org/icons/mlflow.svg" width="48" height="48" alt="MLflow" /> <br><strong>MLflow</strong>
+    </td>
+    <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
       <br><strong>MySQL</strong>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
-      <br><strong>HTML5</strong>
+     <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="48" height="48" alt="SQLite" />
+      <br><strong>SQLite</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
-      <br><strong>CSS3</strong>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48" alt="JS" />
+      <br><strong>JS</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
-      <br><strong>C++</strong>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" />
+      <br><strong>Figma</strong>
     </td>
   </tr>
 </table>
@@ -75,7 +77,7 @@ Atualmente sou Bolsista PIBITI no laboratório TAPIOCA@EAJ (UFRN), onde meu foco
 
 ---
 
-### 📫 Onde me encontrar
+### 📫 Vamos nos conectar?
 
 <a href="https://www.linkedin.com/in/arthur-lisboa-a7b44b273/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:arthurb1118@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
